@@ -3,4 +3,4 @@ Python notebooks for xCTing training event "Mathematics of Tomography"
 
 ## Linear Inverse Problems
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cicwi/xCTing_training/blob/master/Linear_IP.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cicwi/xCTing_training/blob/main/Linear_IP.ipynb)
