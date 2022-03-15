@@ -7,21 +7,34 @@
 ### Monday March 28
 
 13:00 - 13:15 Welcome and introductions
+
 13:15 - 14:00 Lecture - Basic concepts in inverse problems (Tristan van Leeuwen)
+
 14:00 - 14:15 Break
+
 14:15 - 17:00 Exercises
+
 17:00 - 17:15 Closing remarks 
+
 
 ### Tuesday March 29
 
 09:00 - 09:15 Welcome and overview
+
 09:15 - 10:00 Lecture - Mathematics of Tomography (Felix Lucka)
+
 10:00 - 10:15 Break
+
 10:15 - 12:00 Exercises
+
 12:00 - 13:15 Break
+
 13:15 - 14:00 Lecture - The ASTRA toolbox (Tristan van Leeuwen) 
+
 14:00 - 14:15 Break
+
 14:15 - 17:00 Exercise
+
 17:00 - 17:15 Closing remarks
 
 ## Notebooks
