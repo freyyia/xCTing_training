@@ -6,6 +6,8 @@
 
 ### Monday March 28
 
+[Zoom link](https://cwi-nl.zoom.us/j/81922010866) (for passcode see announcement mail).
+
 > 13:00 - 13:15 Welcome and introductions
 >
 > 13:15 - 14:00 Lecture - Basic concepts in inverse problems (Tristan van Leeuwen)
@@ -18,6 +20,8 @@
 
 
 ### Tuesday March 29
+
+[Zoom link](https://cwi-nl.zoom.us/j/88194677648) (for passcode see announcement mail).
 
 > 09:00 - 09:15 Welcome and overview
 > 
