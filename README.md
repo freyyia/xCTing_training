@@ -7,7 +7,6 @@
 ### Monday March 28
 
 > 13:00 - 13:15 Welcome and introductions
-
 > 13:15 - 14:00 Lecture - Basic concepts in inverse problems (Tristan van Leeuwen)
 
 > 14:00 - 14:15 Break
