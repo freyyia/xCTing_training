@@ -1,6 +1,8 @@
 # xCTing training, March 28-29, Centrum Wiskunde & Informatica
 
-1.5-day on-line training on the Mathematics of Computed Tomography, organized in the context of the EU Marie Curie Industrial Training Network program [*xCTiNg*](https://xcting-itn.eu/). 
+1.5-day on-line training on the Mathematical principles and simulation of industrial Computed Tomography, organized in the context of the EU Marie Curie Industrial Training Network program [*xCTiNg*](https://xcting-itn.eu/). 
+
+The purpose of this course is to provide an overview on the subject of mathematical aspects of Computed Tomography. This course will cover reconstruction algorithmic issues, topics dealing with how to generate data for reconstruction in different domains, and artefacts inherent to different data collection strategies. Finally, the course comprises the basics on simulation of industrial Computed Tomography and an introduction to the ASTRA open source toolbox.
 
 ## Program
 
